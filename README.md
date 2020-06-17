@@ -4,7 +4,7 @@ Hello! Below are the instructions for a code challenge we'd like you to prepare.
 
 ## The Challenge
 
-Write a simple app that queries and displays Github issues from the (rails)[https://github.com/rails/rails] repository.
+Write a simple app that queries and displays Github issues from the [Rails](https://github.com/rails/rails) repository.
 
 #### Product Requirements
 
