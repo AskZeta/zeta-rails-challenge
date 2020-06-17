@@ -29,7 +29,7 @@ Write a simple app that queries and displays Github issues from the [Rails](http
 
 Time permitting, choose one or several of the following features and implement them.
 
-- Instead of just making json data available to your views, build non-database models for the issues ( e.g. @issues = issues_json.map{ | data| Issue.from_github_params(data) } )
+- Instead of just making json data available to your views, build non-database models for the issues ( e.g. `@issues = issues_json.map{ | data| Issue.from_github_params(data) }` )
 - Build a data scraping service in the app (can be run by console if needed or a rails runner script) that queries issues and writes them to a model
 - When viewing the issue, also display any comments it has received.
 - Use Redis or an in-memory cache to cache responses
